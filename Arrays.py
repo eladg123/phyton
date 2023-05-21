@@ -1,0 +1,29 @@
+list1 = [1,5,4]
+list2 = ["hello","world"]
+list3 = [23,5.6,-17,"computer"]
+list4 = []
+list5 = ['computer','hello','dog']
+i=3
+# print(list3) =  [23,5.6,-17,"computer"]
+# print(len(list3)) = 4
+# print([1,2]+[3]) = [1,2,3]
+# print(list1+[888]) = [1,5,4,888]
+# print(list1+[888,999]) = [1,5,4,888,999]
+# print(list1+list4) = [1,5,4]
+# print([1,2]*4) = [1,2,1,2,1,2,1,2]
+# print(list3 * 2) = [23,5.6,-17,"computer",23,5.6,-17,"computer"]
+# print([1,2]==[1,2]) = true
+# print([1,2]== [1]+[2]) = true
+# print(2 in [1,2]) = true
+# print(3 in [1,2]) = false
+# print("hello" in list2) = true
+# print(list3[0]) = 23
+# print(list3[1]) = 5.6
+# print(list[2]) = -17
+# print(list3[i]) = computer
+# print(list3[4]) = error(list index out of range)
+# print(len(list1*3)) = 30
+# print(max(list1)) = 8
+# print(min(list1)) = 1
+# print(sorted(list1)) = [1,4,5] 
+# print(sorted(list5)) = ["computer","dog","hello"]  לפי סדר ab המילוני
