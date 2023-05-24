@@ -27,3 +27,5 @@ i=3
 # print(min(list1)) = 1
 # print(sorted(list1)) = [1,4,5] 
 # print(sorted(list5)) = ["computer","dog","hello"]  לפי סדר ab המילוני
+# list1.remove(5)  = [1,4]
+#list1.append(2) = [1,5,4,2]
